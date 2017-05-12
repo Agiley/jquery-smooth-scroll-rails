@@ -15,5 +15,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
   gem.version       = JquerySmoothScrollRails::VERSION
 
-  gem.add_dependency "railties", "~> 4.0"
+  gem.add_dependency "railties"
 end
